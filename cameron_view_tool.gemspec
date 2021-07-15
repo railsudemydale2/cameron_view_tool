@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name          = "cameron_view_tool"
   spec.version       = CameronViewTool::VERSION
   spec.authors       = ["Dale Stewart"]
-  spec.email         = ["stewartdale073@gmail.com"]
+  spec.email         = ["stewartdale54@gmail.com"]
 
   spec.summary       = %q{Various view specific methods for application I use.}
   spec.description   = %q{Provides generated HTML data for Rails applications}
