@@ -19,7 +19,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CameronViewTool::Renderer.copyright 'Dale Stewart', 'All rights reserved'
+```
 
 ## Development
 
