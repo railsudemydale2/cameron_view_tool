@@ -1,7 +1,7 @@
 # CameronViewTool
 > Various view specific methods for applications I use.
 
-## Installation
+## Installation and Read the following lines below very carefully.
 
 Add this line to your application's Gemfile:
 
