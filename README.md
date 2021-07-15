@@ -1,5 +1,5 @@
 # CameronViewTool
-> Various view specific methods for application I use
+> Various view specific methods for applications I use
 
 ## Installation
 
